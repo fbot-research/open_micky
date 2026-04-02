@@ -36,8 +36,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme_options = {
     # --- Configuração das Logos ---
-    "light_logo": "Submarca_fundo_claro.png", # O nome do seu arquivo para o tema claro
-    "dark_logo": "Submarca_fundo_escuro.png",  # O nome do seu arquivo para o tema escuro
+    "light_logo": "logo_white.png", # O nome do seu arquivo para o tema claro
+    "dark_logo": "logo_black.png",  # O nome do seu arquivo para o tema escuro
 
     # --- Cores personalizadas para o modo claro ---
     "light_css_variables": {
