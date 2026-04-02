@@ -34,5 +34,24 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
-# html_static_path = ['_static']
+html_theme_options = {
+    # --- Configuração das Logos ---
+    "light_logo": "Submarca_fundo_claro.png", # O nome do seu arquivo para o tema claro
+    "dark_logo": "Submarca_fundo_escuro.png",  # O nome do seu arquivo para o tema escuro
+
+    # --- Cores personalizadas para o modo claro ---
+    "light_css_variables": {
+        "color-brand-primary": "#2980b9", 
+        "color-brand-content": "#2980b9", 
+    },
+    
+    # --- Cores personalizadas para o modo escuro ---
+    "dark_css_variables": {
+        "color-brand-primary": "#ff5500", 
+        "color-brand-content": "#ff5500", 
+    },
+}
+
+html_theme = 'furo'
+html_static_path = ['_static']
+# html_logo = "_static/Submarca_fundo_claro.png"
