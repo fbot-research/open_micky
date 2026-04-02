@@ -5,7 +5,7 @@ Open_MICKY Documentation
 :maxdepth: 2
 :caption: Contents:
 
-material
+hardware/index
 ```
 
 <!-- Indices and tables
