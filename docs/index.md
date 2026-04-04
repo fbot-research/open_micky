@@ -10,6 +10,7 @@ Open MICKY
 :caption: Contents:
 
 hardware/index
+software/index
 ```
 
 <!-- Indices and tables
