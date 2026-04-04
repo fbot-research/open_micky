@@ -52,6 +52,12 @@ html_theme_options = {
     },
 }
 
+html_js_files = [
+    "theme.js",
+]
+
 html_theme = 'furo'
 html_static_path = ['_static']
+html_favicon = "_static/favicon.ico"
+html_permalinks = False
 # html_logo = "_static/Submarca_fundo_claro.png"
