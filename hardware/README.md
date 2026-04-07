@@ -10,11 +10,15 @@ STL files for the Open MICKY robot.
 
 3D printed parts used in the robot's upper module.
 
+---
+
 ## Lower Module
 
 ![Image](https://github.com/user-attachments/assets/aa6fd223-811a-4667-913a-c06844ae1a1e)
 
 3D printed parts used in the robot's lower module.
+
+---
 
 ## Base Module
 
