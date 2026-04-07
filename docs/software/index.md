@@ -26,3 +26,8 @@ getting_started/install
 :caption: Teleoperation
 getting_started/MICKY_teleop
 ```
+
+```{toctree}
+:caption: Simulation
+simulation
+```
