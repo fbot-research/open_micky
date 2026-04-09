@@ -1,14 +1,18 @@
-# Micky — Simulation Mapping Tutorial
+### MICKY Simulation - Mapping Tutorial
 
 ## Table of Contents
 
-1. [Prerequisites and Dependencies](#prerequisites-and-dependencies)
-2. [Building the Workspace](#building-the-workspace)
-3. [Step 1 — Launch Gazebo](#step-1--launch-gazebo)
-4. [Step 2 — Launch SLAM](#step-2--launch-slam)
-5. [Step 3 — Drive the Robot (Teleop)](#step-3--drive-the-robot-teleop)
-6. [Step 4 — Save the Map](#step-4--save-the-map)
-7. [Common Troubleshooting](#common-troubleshooting)
+- [Table of Contents](#table-of-contents)
+- [Prerequisites and Dependencies](#prerequisites-and-dependencies)
+- [Building the Workspace](#building-the-workspace)
+- [Step 1 — Launch Gazebo](#step-1--launch-gazebo)
+- [Step 2 — Launch SLAM](#step-2--launch-slam)
+- [Step 3 — Drive the Robot (Teleop)](#step-3--drive-the-robot-teleop)
+- [Step 4 — Save the Map](#step-4--save-the-map)
+- [Common Troubleshooting](#common-troubleshooting)
+  - [Gazebo does not open / freezes on startup](#gazebo-does-not-open--freezes-on-startup)
+  - [Map stays empty in RViz](#map-stays-empty-in-rviz)
+  - [Robot does not move](#robot-does-not-move)
 
 ---
 
