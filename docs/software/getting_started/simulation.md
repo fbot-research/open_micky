@@ -62,7 +62,7 @@ source install/setup.bash
 
 ## Step 1 — Launch Gazebo
 
-Opens Gazebo Harmonic with the `turtlebot3_world` world and spawns the Micky robot.
+1. Opens Gazebo Harmonic with the `turtlebot3_world` world and spawns the Micky robot.
 
 ```bash
 ros2 launch micky_simulation gazebo.launch.py
@@ -74,7 +74,7 @@ Wait until Gazebo GUI is fully open and the robot model is visible in the scene.
 
 ## Step 2 — Launch SLAM
 
-In a **new terminal**, start the SLAM node and RViz:
+2. In a **new terminal**, start the SLAM node and RViz:
 
 ```bash
 ros2 launch micky_slam sim_slam.launch.py
@@ -86,7 +86,7 @@ RViz will open with the `/map` topic displayed. The map starts empty and is buil
 
 ## Step 3 — Drive the Robot (Teleop)
 
-In a **third terminal**, start the keyboard teleop:
+3. In a **third terminal**, start the keyboard teleop:
 
 ```bash
 ros2 run teleop_twist_keyboard teleop_twist_keyboard
@@ -103,6 +103,11 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 Drive the robot around the entire environment. The map in RViz fills in as new areas are scanned. For best results, make at least one full loop so slam_toolbox can close the loop.
 
 ---
+
+4. The robot can be vizualized and controled with teleop, like the image below: 
+
+![Vizualization](video/teleop_video.gif)
+
 
 ## Step 4 — Save the Map
 
