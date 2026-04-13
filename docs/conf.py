@@ -36,8 +36,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme_options = {
     # --- Configuração das Logos ---
-    "light_logo": "logo_white.png", # O nome do seu arquivo para o tema claro
-    "dark_logo": "logo_black.png",  # O nome do seu arquivo para o tema escuro
+    "light_logo": "team_images/logo_white.png", # O nome do seu arquivo para o tema claro
+    "dark_logo": "team_images/logo_black.png",  # O nome do seu arquivo para o tema escuro
 
     # --- Cores personalizadas para o modo claro ---
     "light_css_variables": {
@@ -63,5 +63,5 @@ html_theme = 'furo'
 html_permalinks = False
 html_static_path = ['_static']
 html_css_files = ["css/custom.css"]
-html_favicon = "_static/favicon.ico"
+html_favicon = "_static/team_images/favicon.ico"
 # html_logo = "_static/Submarca_fundo_claro.png"
