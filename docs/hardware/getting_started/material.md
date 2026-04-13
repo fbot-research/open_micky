@@ -26,11 +26,26 @@ Doesn't include cost of 3D printing, tools, shipping and taxes.
 | Perfil estrutural 40x40mm CANAL 8 - 220mm | 15 | ~R$24.42 | [Forseti](https://loja.forsetisolucoes.com.br/perfil-estrutural-em-aluminio-40x40-basico-canal-8-t-slot-tslot) |
 
 
+## Fixação
+
+| Part | Amount | Unit Cost (R$) | Buy (R$) |
+| --- | --- | --- | --- |
+| Parafuso Allen M6 x 12mm | 160 | ~€0,34 | [Motedis](https://www.motedis.com/en/countersunk-screw-with-hexagon-socket-according-to-DIN-7991) |
+| Porca Martelo	6mm | 130 | ~€0,50 | [Motedis](https://www.motedis.com/en/T-nut-B-type-slot-8-M6-stainless-steel) |
+| Parafuso Allen M6 x 20mm| 4 | ~€0,33 | [Motedis](https://www.motedis.com/en/countersunk-screw-with-hexagon-socket-according-to-DIN-7991) |
+| Parafuso Allen M3 x 20mm | 12 | ~€0,32 | [Motedis](https://loja.forsetisolucoes.com.br/placa-de-conexao-montagem-90-graus-com-corte-para-perfil-estrutural-em-aluminio) |
+| Parafuso Allen M3 x 12mm | 18 | ~€0,32 | [Motedis](https://loja.forsetisolucoes.com.br/perfil-estrutural-em-aluminio-40x40-basico-canal-8-t-slot-tslot) |
+| Parafuso Suporte Motor M6 x 35mm | 16 | ~€0,39 | [Motedis](https://loja.forsetisolucoes.com.br/perfil-estrutural-em-aluminio-40x40-basico-canal-8-t-slot-tslot) |
+| Porca Sextavada M6 | 34 | ~€0,31 | [Motedis](https://www.motedis.com/en/Nut-DIN-439-M4-M5-M6-M8-M10-and-M12) |
+| Porca Sextavada M5 | 16 | ~€0,30 | [Motedis](https://www.motedis.com/en/Nut-DIN-439-M4-M5-M6-M8-M10-and-M12) |
+| Porca Sextavada M4 | 40 | ~€0,30 | [Motedis](https://www.motedis.com/en/Nut-DIN-439-M4-M5-M6-M8-M10-and-M12) |
+
+
 ## Motion System
 
 | Part | Amount | Unit Cost (R$) | Buy (R$) |
 | --- | --- | --- | --- |
-| Driver para Motor de Passo TB6600 | 6 | ~R$75 | [Robocore](https://www.robocore.net/driver-motor/driver-para-motor-de-passo-tb6600) |
+| Driver TB6600 | 4 | ~€11,95 | [Otronic](https://www.otronic.nl/en/tb6600-stepper-motor-driver-for-nema-17-23-34-9-42.html) |
 | Motor de Passo Nema 23 – Torque 30 kgf (EIXO 21mm x 8mm) | 6 | ~R$215 | [Tecmaf](https://loja.tecmaf.com.br/motores-de-passo-e-componentes-cnc/motor-de-passo/motor-de-passo-nema-23-30kgf-cm-749) |
 | Conjunto de Rodas Mecanum MEC-100 | 1 | ~R$1400 | [Celusinagem](https://celusinagem.wixsite.com/omni-mecanum) |
 
@@ -39,12 +54,12 @@ We opted to manufacture the wheels through a local supplier, as this proved to b
 ```
 
 
-## Electronics
+## Elétrica
 
-| Part | Amount | Unit Cost (R$) | Unit Cost (US) | Unit Cost (EU) | Buy (R$) |
-| --- | --- | --- | --- | --- | --- |
+| Part | Amount | Unit Cost (R$) | Buy (R$) |
+| --- | --- | --- | --- |
 | 5-Conductor Lever-Nut Connector | 10 | R$3.50 | $0.68 | €0.59 | [Eletrogate](https://www.eletrogate.com/conector-wago-borne-emenda-para-5-fios) |
-| XT60 60A Male/Female Power Connector Pair | 8 | R$6.70 | $1.28| €1.11 | [Eletrogate](https://www.eletrogate.com/conector-xt-60) |
+| XT60 60A Male/Female Power Connector Pair | 8 | €2,59 | [Mouser](https://eu.mouser.com/ProductDetail/TE-Connectivity-Raychem/55A0111-14-0?qs=pLY5GE0xrmLM0HQX5pSW2g%3D%3D) |
 | Heat Shrink Tubing Assortment Kit, 5 Colors, 328 Pieces | 1 | R$14.90 | $2.89 | €2.49 | [Eletrogate](https://www.eletrogate.com/kit-tubo-termo-retratil-com-328-unidades-em-5-cores) |
 | Nickel-Plated Steel Strip for 18650 Battery Spot Welding (10 m × 8 mm)| 5 | R$30.93 | $6.00 | €5.18 | [Usainfo](https://www.usinainfo.com.br/ferramentas/fita-de-niquel-com-aco-para-soldar-baterias-18650-10-metros-x-8mm-8694.html) |
 | Insulated Fork Terminals for 2.5 mm² Conductors (Blue, 100 pcs)| 1 | R$31.00 | $6.01 | €5.19 | [Casa do Eletricista](https://www.casadoeletricistasc.com.br/terminal-pre-isolado-garfo-para-cabo-2-5mm2-azul-100-unidades/p/kit197) |
