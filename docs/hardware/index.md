@@ -18,6 +18,7 @@
 ```{toctree}
 :caption: Hardware Intro
 hardware_intro/index
+hardware_intro/locomotion_system
 ```
 
 ```{toctree}
