@@ -1,4 +1,6 @@
-# MICKY Simulation - Mapping Tutorial
+# MICKY Simulation
+
+This section guides you through running the MICKY simulation environment using Gazebo and ROS 2.
 
 ---
 

@@ -1,8 +1,15 @@
-## MICKY Teleop
+# MICKY Teleop
 
+This section guides you through running the MICKY teleop.
 
-### Keyboard Teleop
+---
 
+## Keyboard Teleop
 
-### Xbox Controller Teleop
+teste
 
+---
+
+## Xbox Controller Teleop
+
+teste2
