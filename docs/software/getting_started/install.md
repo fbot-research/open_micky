@@ -93,7 +93,7 @@ Log out and log back in after running this command.
 
 ---
 
-## Install the Simulation Repository
+## Install MICKY Simulation
 
 Navigate to your workspace source directory and clone the repository:
 
