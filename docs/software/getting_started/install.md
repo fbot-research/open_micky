@@ -8,13 +8,14 @@ To install MICKY, follow the commands below.
 
 Make sure you have the following installed:
 
-* Ubuntu (Linux)
+* Ubuntu 22.04
 * ROS 2 Humble
 * Arduino IDE or PlatformIO
+* Gazebo Harmonic (or Garden)
 
 ---
 
-## Install MICKY
+## Install MICKY Base Controller
 
 Clone the repository:
 
@@ -92,12 +93,44 @@ Log out and log back in after running this command.
 
 ---
 
-### ROS 2 Setup
+## Install the Simulation Repository
 
-Build the workspace:
+Navigate to your workspace source directory and clone the repository:
 
 ```bash
-source /opt/ros/humble/setup.bash
+cd ~/micky_ws/src
+git clone https://github.com/FBOTWork/micky_simulation.git
+```
+
+Install rosdep dependencies:
+
+```bash
+cd ~/micky_ws
+rosdep update
+rosdep install --from-paths src --ignore-src -r -y
+```
+
+Install required ROS 2 packages:
+
+```bash
+sudo apt install -y \
+  ros-humble-ros-gz-sim \
+  ros-humble-ros-gz-bridge \
+  ros-humble-robot-state-publisher \
+  ros-humble-slam-toolbox \
+  ros-humble-nav2-map-server \
+  ros-humble-xacro \
+  ros-humble-rviz2
+```
+
+---
+
+## Building the Workspace
+
+Run **once** after cloning or modifying package files:
+
+```bash
+cd ~/micky_ws
 colcon build --symlink-install
 source install/setup.bash
 ```

@@ -4,64 +4,6 @@ This section guides you through running the MICKY simulation environment using G
 
 ---
 
-## Pre Requisite:
-
-- **ROS 2 Humble**
-- **Gazebo Harmonic** (or Garden)
-
---- 
-
-## Installing the Simulation Repository
-
-Navigate to your workspace source directory and clone the repository:
-
-```bash
-cd ~/micky_ws/src
-git clone https://github.com/FBOTWork/micky_simulation.git
-```
-
-Install rosdep dependencies:
-
-```bash
-cd ~/micky_ws
-rosdep update
-rosdep install --from-paths src --ignore-src -r -y
-```
-
-Install required ROS 2 packages:
-
-```bash
-sudo apt install -y \
-  ros-humble-ros-gz-sim \
-  ros-humble-ros-gz-bridge \
-  ros-humble-robot-state-publisher \
-  ros-humble-slam-toolbox \
-  ros-humble-nav2-map-server \
-  ros-humble-xacro \
-  ros-humble-rviz2
-```
-
-Source the ROS 2 environment in every terminal (or add to `~/.bashrc`):
-
-```bash
-source /opt/ros/humble/setup.bash
-source ~/micky_ws/install/setup.bash
-```
-
----
-
-## Building the Workspace
-
-Run **once** after cloning or modifying package files:
-
-```bash
-cd ~/micky_ws
-colcon build --symlink-install
-source install/setup.bash
-```
-
----
-
 ## Step 1 — Launch Gazebo
 
 1. Opens Gazebo Harmonic with the `turtlebot3_world` world and spawns the Micky robot.
@@ -153,4 +95,3 @@ ros2 topic pub /cmd_vel geometry_msgs/msg/Twist \
 ```
 
 If the robot moves in Gazebo but not from teleop, make sure the teleop terminal has focus (keyboard input is captured there).
-
