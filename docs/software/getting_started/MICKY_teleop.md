@@ -42,6 +42,59 @@ Use the following keys to control the robot:
 | `.` | Backward + right |
 | `k` | Stop the robot |
 
-## Xbox Controller Teleop
+---
 
-teste2
+## Joystick Teleop
+
+It is also possible to control the robot using a Logitech game controller.
+
+---
+
+### Install Required Packages
+
+```bash
+sudo apt install ros-humble-joy ros-humble-teleop-twist-joy
+```
+
+---
+
+### Connect the Controller
+
+Connect the Logitech controller via USB or Bluetooth, and run the commands below:
+
+To verify that it is detected:
+
+```bash
+ls /dev/input/js0
+```
+
+---
+
+In the first terminal, run:
+
+```bash
+ros2 launch motors_controller motors_controller.launch.py
+```
+
+---
+
+In a second terminal, run:
+
+```bash
+ros2 run joy joy_node
+```
+
+---
+
+In a third terminal, run:
+
+```bash
+ros2 run teleop_twist_joy teleop_node
+```
+
+---
+
+### Controls
+
+- Left analog stick → linear motion (forward/backward and lateral)
+- Right analog stick → rotation
