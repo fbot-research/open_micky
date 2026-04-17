@@ -63,5 +63,5 @@ html_theme = 'furo'
 html_permalinks = False
 html_static_path = ['_static']
 html_css_files = ["css/custom.css"]
-html_favicon = "_static/team_images/favicon.ico"
+html_favicon = "_static/team_images/site_icon.ico"
 # html_logo = "_static/Submarca_fundo_claro.png"
