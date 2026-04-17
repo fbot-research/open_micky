@@ -18,7 +18,6 @@
 ```{toctree}
 :caption: Hardware Intro
 hardware_intro/index
-hardware_intro/locomotion_system
 ```
 
 ```{toctree}
@@ -26,4 +25,5 @@ hardware_intro/locomotion_system
 getting_started/material
 getting_started/3d
 getting_started/assembly
+getting_started/locomotion_system
 ```

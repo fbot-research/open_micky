@@ -18,6 +18,11 @@ For the basic version of MICKY, no onboard computer is required. Just use your l
 ```
 
 ```{toctree}
+:caption: Control System
+control_system/index
+```
+
+```{toctree}
 :caption: Installation
 getting_started/install
 ```
