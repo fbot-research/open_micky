@@ -14,16 +14,26 @@ Doesn't include cost of 3D printing, tools, shipping and taxes.
 | **Total** | **~R$5222.63** | **~$1012.84** | **~€873.22** |
 
 
-## Structural
+## Estrutura
 
-| Part | Amount | Unit Cost (R$) | Buy (R$) |
+| Part | Amount | Unit Cost (€) | Buy (€) |
 | --- | --- | --- | --- |
-| Placa Quadrada p/ Perfil Base 40 | 3 | ~R$17.46 | [Forseti](https://loja.forsetisolucoes.com.br/placa-de-conexao-montagem-lateral-quadrada-para-perfil-estrutural-em-aluminio) |
-| Placa de Conexão T p/ Perfil Base 40 | 3 | ~R$26.78 | [Forseti](https://loja.forsetisolucoes.com.br/placa-de-conexao-montagem-t-para-perfil-estrutural-em-aluminio) |
-| Porca Martelo Canal 8 - p/ Perfil Base 40 - M6 - 50un | 1 | ~R$83.16 | [Forseti](https://loja.forsetisolucoes.com.br/porca-t-martelo-para-perfil-estrututral-em-aluminio-canal-8-40-40x40-tslot-t-slot) |
-| Placa de Conexão 90° - c/ Corte p/ Perfil 40 | 6 | ~R$27.94 | [Forseti](https://loja.forsetisolucoes.com.br/placa-de-conexao-montagem-90-graus-com-corte-para-perfil-estrutural-em-aluminio) |
-| Perfil estrutural 40x40mm - CANAL 8 - 300mm | 6 | ~R$33.3 | [Forseti](https://loja.forsetisolucoes.com.br/perfil-estrutural-em-aluminio-40x40-basico-canal-8-t-slot-tslot) |
-| Perfil estrutural 40x40mm CANAL 8 - 220mm | 15 | ~R$24.42 | [Forseti](https://loja.forsetisolucoes.com.br/perfil-estrutural-em-aluminio-40x40-basico-canal-8-t-slot-tslot) |
+| Perfil de Alumínio 600mm | 2 | ~€8,58 | [Motedis](https://www.motedis.com/en/Profile-40x40L-I-Type-slot-8) |
+| Perfil de Alumínio 300mm | 8 | ~€4,29 | [Motedis](https://www.motedis.com/en/Profile-40x40L-I-Type-slot-8) |
+| Perfil de Alumínio 220mm | 15 | ~€3,37 | [Motedis](https://www.motedis.com/en/Profile-40x40L-I-Type-slot-8) |
+| Perfil de Alumínio 180mm | 4 | ~€2,76 | [Motedis](https://www.motedis.com/en/Profile-40x40L-I-Type-slot-8) |
+| Perfil de Alumínio 75mm | 2 | ~€1,15 | [Motedis](https://www.motedis.com/en/Profile-40x40L-I-Type-slot-8) |
+
+
+## Conexão
+
+| Part | Amount | Unit Cost (€) | Buy (€) |
+| --- | --- | --- | --- |
+| Conector L  | 38 | ~€1,10 | [Motedis](https://www.motedis.com/en/Bracket-Alu-anodized-40x40) |
+| Cantoneira p/ Perfil | 18 | ~€0,47 | [Motedis](https://www.motedis.com/en/Cover-Caps-40x40-I-Type-Slot-8) |
+| Placa de Conexão	Quadrada, 40x40 | 3 | ~€2,57 | [Motedis](https://www.motedis.com/en/Square-connector-plate-76x76x5-Lasercut) |
+| Placa de Conexão	Em "L" , 40x40 | 2 | ~€3,82 | [Motedis](https://www.motedis.com/en/-L-connector-plate-Alu-elox-4040) |
+| Placa de Conexão	Em "T", 40x40 | 1 | ~€4,49 | [Motedis](https://www.motedis.com/en/Connector-plate-T-Alu-elox-4040) |
 
 
 ## Fixação
