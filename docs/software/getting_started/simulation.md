@@ -50,7 +50,7 @@ Drive the robot around the entire environment. The map in RViz fills in as new a
 
 4. The robot can be vizualized and controled with teleop, like the image below: 
 
-![Vizualization](/_static/gifs/teleop_video.gif)
+![Vizualization](/_static/gifs/simulation_video.gif)
 
 ## Step 4 — Save the Map
 
