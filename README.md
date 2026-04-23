@@ -36,8 +36,6 @@
 
 This project was developed by the FBOT Robotics Team:
 
-**Main Contributors**
-
 - [Caio Paiva](https://github.com/CaioCPaiva) – Robot construction and 3D support design
 - [Conrado Floriano](https://github.com/conradof) - Robot construction
 - [Fernanda Oliveira](https://github.com/nanda0514) - Robot construction
