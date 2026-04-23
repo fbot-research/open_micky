@@ -7,7 +7,7 @@ Doesn't include cost of 3D printing, tools, shipping and taxes.
 ```
 
 | Price | BRL | EUR | USD |
-|-------|-----|-----|-----|
+|-------|:---:|:---:|:---:|
 | Structural Components | ~R$2103.18 | ~€458.66 | ~$1064.58 |
 | Electrical System | ~R$902.4 | ~€406.47 | ~$200.81 |
 | Locomotion System | ~R$2834.46 | ~€330.36 | ~$381.73 |
@@ -18,7 +18,7 @@ Doesn't include cost of 3D printing, tools, shipping and taxes.
 ## Structural Components
 
 | Part | Amount | Unit Cost (BRL) | Buy (R$) | Unit Cost (EUR) | Buy (€) | Unit Cost (USD) | Buy ($) |
-|------|--------|-----------------|----------|-----------------|---------|-----------------|---------|
+|------|:------:|:---------------:|:--------:|:---------------:|:-------:|:---------------:|:-------:|
 | 40×40 T-Slot Aluminum Extrusion 600 mm | 2 | ~R$75.60 | [Forseti](https://loja.forsetisolucoes.com.br/perfil-estrutural-em-aluminio-40x40-basico-canal-8-t-slot-tslot) | ~€8.58 | [Motedis](https://www.motedis.com/en/Profile-40x40L-I-Type-slot-8) | ~$33.60 | [McMASTER-CARR](https://www.mcmaster.com/products/aluminum-extrusions/rail-height~40-mm/t-slotted-framing-rails-4/) |
 | 40×40 T-Slot Aluminum Extrusion 300 mm | 8 | ~R$37.80 | [Forseti](https://loja.forsetisolucoes.com.br/perfil-estrutural-em-aluminio-40x40-basico-canal-8-t-slot-tslot) | ~€4.29 | [Motedis](https://www.motedis.com/en/Profile-40x40L-I-Type-slot-8) | ~$16.80 | [McMASTER-CARR](https://www.mcmaster.com/products/aluminum-extrusions/rail-height~40-mm/t-slotted-framing-rails-4/) |
 | 40×40 T-Slot Aluminum Extrusion 220 mm | 15 | ~R$27.72 | [Forseti](https://loja.forsetisolucoes.com.br/perfil-estrutural-em-aluminio-40x40-basico-canal-8-t-slot-tslot) | ~€3.37 | [Motedis](https://www.motedis.com/en/Profile-40x40L-I-Type-slot-8) | ~$12.32 | [McMASTER-CARR](https://www.mcmaster.com/products/aluminum-extrusions/rail-height~40-mm/t-slotted-framing-rails-4/) |
@@ -46,7 +46,7 @@ Doesn't include cost of 3D printing, tools, shipping and taxes.
 ## Electrical System
 
 | Part | Amount | Unit Cost (BRL) | Buy (R$) | Unit Cost (EUR) | Buy (€) | Unit Cost (USD) | Buy ($) |
-|------|--------|-----------------|----------|-----------------|---------|-----------------|---------|
+|------|:------:|:---------------:|:--------:|:---------------:|:-------:|:---------------:|:-------:|
 | Hoverboard Battery (36V) | 4 | ~R$139.30 | [Arco Iris LED](https://www.arcoirisled.com.br/produto/bateria-original-para-hoverboard-eletrico-36v-44ah-ydtech) | ~€89.99 | [Decathlon](https://www.decathlon.ie/p/1100365324-2495102-36v-4ah-hoverboard-battery-replacement.html?utm_source=chatgpt.com) | ~$44.99 | [BatteryGC](https://batterygc.com/products/10s2p-36v-4-4ah-18650-li-ion-battery-for-hoverboard-scooter-balance-board-car) |
 | Ferrule Terminals (Wire Ferrules) | 20 | ~R$14.69 | [Santil](https://www.santil.com.br/terminal-ilhos-pre-isolado-cinza-simples-4mm-com-100-pecas-eletrokit/p) | ~€0.086 | [Mouser](https://eu.mouser.com/ProductDetail/KS-Terminals/EN2508?qs=%252B6g0mu59x7IZJehitj7%252BJA%3D%3D) | ~$0.014 | [FerrulesDirect](https://www.ferrulesdirect.com/collections/insulated-wire-ferrules/products/ad15006) |
 | 20A Switch | 3 | ~R$7.50 | [Casa do Resistor](https://www.casadoresistor.com.br/chave-kcd4-201-4t-16-20a-125-250v-preta) | ~€5.6 | [Hestore](https://www.hestore.eu/prod_10040377.html#) | ~$3.15 | [McMASTRER-CARR](https://www.mcmaster.com/products/7395k111/) |
@@ -62,7 +62,7 @@ Use a 2 mm² flexible cable (approximately AWG 14) for power distribution.
 ## Locomotion System
 
 | Part | Amount | Unit Cost (BRL) | Buy (R$) | Unit Cost (EUR) | Buy (€) | Unit Cost (USD) | Buy ($) |
-|------|--------|-----------------|----------|-----------------|---------|-----------------|---------|
+|------|:------:|:---------------:|:--------:|:---------------:|:-------:|:---------------:|:-------:|
 | NEMA 23 Stepper Motor (30 kgf·cm) | 4 | ~R$215.00 | [Tecmaf](https://loja.tecmaf.com.br/motores-de-passo-e-componentes-cnc/motor-de-passo/motor-de-passo-nema-23-30kgf-cm-749) | ~€21.24 | [Cloudray](https://www.cloudraylaser.com/products/cloudray-102mm-3n-m-5a-2-phase-nema23-open-loop-stepper-motor) | ~$28.70 | [StepperOnline](https://www.omc-stepperonline.com/nema-23-bipolar-3nm-425oz-in-8mm-diameter-4-2a-57x57x113mm-4-wires-stepper-motor-23hs45-4204s1) |
 | TB6600 Stepper Driver | 4 | ~R$79.90 | [RoboCore](https://www.robocore.net/driver-motor/driver-para-motor-de-passo-tb6600) | ~€11.95 | [Otronic](https://www.otronic.nl/en/tb6600-stepper-motor-driver-for-nema-17-23-34-9-42.html) | ~$20.00 | [DFRobot](https://www.dfrobot.com/product-1547.html) |
 | MPU-9250 IMU with BMP280 (6-pin) | 2 | ~R$127.43 | [Elecbee](https://www.elecbee.com/en/product-detail/mpu9250-bmp280-10dof-gy-91-acceleration-gyroscope-compass-nine-shaft-sensor-module_25515) | ~€22.89 | [Elecbee](https://www.elecbee.com/en/product-detail/mpu9250-bmp280-10dof-gy-91-acceleration-gyroscope-compass-nine-shaft-sensor-module_25515) | ~$23.38 | [Elecbee](https://www.elecbee.com/en/product-detail/mpu9250-bmp280-10dof-gy-91-acceleration-gyroscope-compass-nine-shaft-sensor-module_25515) |
@@ -72,7 +72,6 @@ Use a 2 mm² flexible cable (approximately AWG 14) for power distribution.
 We opted to manufacture the wheels through a local supplier, as this proved to be significantly more cost-effective than purchasing them online. For reference, links to similar wheels available on the market are provided above.
 ```
 
-
 ---
 
 ## 3D Printed Parts
@@ -80,7 +79,7 @@ We opted to manufacture the wheels through a local supplier, as this proved to b
 The following table lists all required 3D printed components.
 
 | Module | Part | Quantity | STL Link |
-|--------|------|----------|----------|
+|--------|:----:|:--------:|:--------:|
 | Structural | Door Handle| 1 | [STL](https://github.com/fbot-research/open_micky/blob/main/hardware/structural/door_handle.stl) |
 | Structural | Door Handle Magnet | 1 | [STL](https://github.com/fbot-research/open_micky/blob/main/hardware/structural/door_handle_magnet.stl) |
 | Structural | Side Acrylic Magnet | 6 | [STL](https://github.com/fbot-research/open_micky/blob/main/hardware/structural/side_acrylic_magnet.stl) |
