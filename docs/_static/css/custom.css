@@ -2,3 +2,17 @@
 a.sidebar-brand-text {
     display: none !important;
 }
+
+a {
+    color: #ff5500;
+}
+
+
+a:visited {
+    color: #ff5500;
+}
+
+
+a:hover {
+    color: #ff5500;
+}

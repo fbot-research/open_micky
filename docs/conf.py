@@ -35,23 +35,22 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme_options = {
-    # --- Configuração das Logos ---
-    "light_logo": "team_images/logo_white.png", # O nome do seu arquivo para o tema claro
-    "dark_logo": "team_images/logo_black.png",  # O nome do seu arquivo para o tema escuro
 
-    # --- Cores personalizadas para o modo claro ---
+    "light_logo": "team_images/logo_white.png",
+    "dark_logo": "team_images/logo_black.png",
+
     "light_css_variables": {
-        "color-brand-primary": "#2980b9", 
-        "color-brand-content": "#2980b9", 
+        "color-brand-primary": "#ff5500", 
+        "color-brand-content": "#ff5500", 
     },
     
-    # --- Cores personalizadas para o modo escuro ---
     "dark_css_variables": {
         "color-brand-primary": "#ff5500", 
         "color-brand-content": "#ff5500", 
     },
     
     "sidebar_hide_name": True,
+
 }
 
 html_js_files = [
@@ -64,4 +63,3 @@ html_permalinks = False
 html_static_path = ['_static']
 html_css_files = ["css/custom.css"]
 html_favicon = "_static/team_images/site_icon.ico"
-# html_logo = "_static/Submarca_fundo_claro.png"
