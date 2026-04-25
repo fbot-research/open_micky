@@ -27,10 +27,10 @@
 > [!NOTE] 
 > Se você é totalmente iniciante em programação, recomendamos dedicar pelo menos um dia para se familiarizar com conceitos básicos de Python, Ubuntu e GitHub (com ajuda do Google ou ferramentas de IA). É importante saber configurar o sistema Ubuntu, utilizar comandos como `git clone` e `pip install`, usar ambientes de desenvolvimento (VS Code, Cursor, PyCharm, etc.) e executar comandos diretamente no terminal.
 
-1. 💵 **Compre os componentes**: [Lista de Materiais](https://open-micky.readthedocs.io/en/latest/hardware/getting_started/material.html)
-2. 🖨️ **Imprima as peças**: [Impressão 3D](https://open-micky.readthedocs.io/en/latest/hardware/getting_started/3d.html)
-3. 🛠️ **Monte o robô**: [Assembly](https://open-micky.readthedocs.io/en/latest/hardware/getting_started/assembly.html)
-4. 💻 **Coloque em funcionamento**: [Software](https://open-micky.readthedocs.io/en/latest/software/index.htmll)
+1. 💵 **Compre os componentes**: [Lista de Materiais](https://open-micky.readthedocs.io/pt-br/latest/hardware/getting_started/material.html)
+2. 🖨️ **Imprima as peças**: [Impressão 3D](https://open-micky.readthedocs.io/pt-br/latest/hardware/getting_started/3d.html)
+3. 🛠️ **Monte o robô**: [Assembly](https://open-micky.readthedocs.io/pt-br/latest/hardware/getting_started/assembly.html)
+4. 💻 **Coloque em funcionamento**: [Software](https://open-micky.readthedocs.io/pt-br/latest/software/index.html)
 
 ---
 
