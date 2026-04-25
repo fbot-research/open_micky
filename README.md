@@ -1,8 +1,10 @@
 # [Open MICKY🤖](https://open-micky.readthedocs.io/en/latest/)
 
-[![Instagram](https://img.shields.io/badge/Follow-@furgbot-E4405F?logo=instagram&logoColor=white)](https://instagram.com/furgbot) [![Docs status](https://img.shields.io/badge/docs-passing-blue.svg)](https://open-micky.readthedocs.io/en/latest/)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md) [![pt](https://img.shields.io/badge/lang-pt-yellow.svg)](README_PTBR.md)
 
 ![image](docs/_static/micky.jpeg)
+
+[![Instagram](https://img.shields.io/badge/Follow-@furgbot-E4405F?logo=instagram&logoColor=white)](https://instagram.com/furgbot) [![Docs status](https://img.shields.io/badge/docs-passing-blue.svg)](https://open-micky.readthedocs.io/en/latest/)
 
 ---
 
