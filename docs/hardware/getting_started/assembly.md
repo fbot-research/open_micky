@@ -96,9 +96,14 @@ These custom boards were designed to simplify system integration and ensure reli
 <img src="../../_static/pcbs/imu_2.jpeg" width="45%">
 </div>
 
+To support the use of two IMUs in the system, both PCBs were designed to simplify their integration with the rest of the electronics. However, since both sensors share the same communication bus, it is necessary to differentiate them through I2C addressing.
+
+This is achieved by modifying the AD0 pin configuration: one of the IMU boards includes an external trace connecting the AD0 pin to GND, changing its I2C address, while the other maintains the default internal configuration.
+
 ---
 
 ```{important}
 Ferric chloride is corrosive. Always use protective equipment and work in a ventilated environment.
+```
 
 </div>
