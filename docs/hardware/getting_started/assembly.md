@@ -13,7 +13,7 @@ This section describes the assembly process of the MICKY robot, including mechan
 This section shows the mechanical assembly of the MICKY robot.
 
 <iframe width="800" height="600" 
-    src="https://www.youtube.com/embed/PALwkMxWDME"
+    src="https://www.youtube.com/embed/L_kPBL3wr8g"
     frameborder="0" 
     allowfullscreen>
 </iframe>
